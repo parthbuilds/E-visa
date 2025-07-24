@@ -5,10 +5,10 @@
 
     /*-----------------------------------------------------------------------------------
 
-        Template Name: Immigration and Visa Consulting HTML5 Template
-        Author: RRDevs
-        Support: https://support.rrdevs.net
-        Description: Immigration and Visa Consulting HTML5 Template
+        Template Name: E-visa migration
+        Author: ParthBuilds
+        Support: https://support.ParthBuilds.net
+        Description: E-visa migration
         Version: 1.0
         Developer: Soukhin khan (https://github.com/Soukhinkhan)
 
